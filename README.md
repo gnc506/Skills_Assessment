@@ -24,10 +24,7 @@ use this to estimate what proportion of papers mention your target in
 a given year.
 
 The files have been checked as far as possible, but it possible that some
-entries contain unforseen problems. Work around these if possible - e.g.
-by dropping a small number of entries. If you encounter more extensive
-problems, contact us and we will try and regenerate the files or otherwise
-provide advice.
+entries contain unforseen problems. We worked around these by dropping a small number. To find who are the most active reaserchers and who works with whom.
 
 The files columns are described below:
 
