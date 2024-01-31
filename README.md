@@ -1,7 +1,7 @@
 # SkillsAssess2
 Group 9 - Skills Assessment 2
 
-We were working on the below files. We analyze based on the PubMed database of
+We were working on the files. We analyze based on the PubMed database of
 papers published since around 2000 which mention the biological target
 in either the title or abstract.
 
