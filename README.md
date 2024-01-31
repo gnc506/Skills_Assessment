@@ -95,7 +95,7 @@ Skill Assessment.pptx
  Skill_Assessment_2_Tabassum.ipynb
  ================================
 
- The visual analysis for network graph - who worked with whom by Tabassum Sultana
+ The visual analysis for network graph - who worked with whom - Tabassum Sultana
 
  Skills_Assessment_2-Gracie.ipynb
  ================================
@@ -109,4 +109,4 @@ Skill Assessment.pptx
    Skills_assessment_2_HM.ipynb
   =================================
 
-  The visual analysis for __________  - who is active reasearchers by Hari
+  The visual analysis for the Institute who publish most of the article - Hari
