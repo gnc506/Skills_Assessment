@@ -24,7 +24,7 @@ use this to estimate what proportion of papers mention your target in
 a given year.
 
 The files have been checked as far as possible, but it possible that some
-entries contain unforseen problems. We worked around these by dropping a small number. To find who are the most active reaserchers and who works with whom.
+entries contain unforseen problems. We worked around these by dropping a small number. To find who are the most active reaserchers, who works with whom and some additial analysis. So that it will help the organization to understand the Reaseracher who would be best fit to work as partner. 
 
 The files columns are described below:
 
