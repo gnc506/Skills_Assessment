@@ -100,7 +100,7 @@ Skill Assessment.pptx
  Skills_Assessment_2-Gracie.ipynb
  ================================
 
-  The visual analysis for Bar graph - who is active reasearchers by Gracie
+  Who is Active - Raw data, Appended data and Bar chart visualisations - Gracie
 
   Skills_Assessment_2_asha.ipynb
   ================================
