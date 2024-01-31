@@ -82,3 +82,39 @@ FILE paper_counts.csv
   Integer: a given year
 "Count":
   Integer: the number of papers published in that year included in PubMed
+
+===================================================================================================================
+  Skill Assessment 2 Group 9.pptx
+===================================
+
+The presentation file group 9 had with the Business on 23th Jan.
+
+
+======================================================================================================================
+Skill Assessment.pptx
+============================
+
+ The final presentation file group 9 had with the Business on 30th Jan.
+
+ ====================================================================================================================
+ Skill_Assessment_2_Tabassum.ipynb
+ ================================
+
+ The visual analysis for network graph - who worked with whom by Tabassum Sultana
+
+ ===================================================================================================================
+ Skills_Assessment_2-Gracie.ipynb
+ ================================
+
+  The visual analysis for Bar graph - who is active reasearchers by Gracie
+
+  =================================================================================================================
+  Skills_Assessment_2_asha.ipynb
+  ================================
+  The visual analysis for __________- who is active reasearchers by Asha
+
+  ==================================================================================================================
+   Skills_assessment_2_HM.ipynb
+  =================================
+
+  The visual analysis for __________  - who is active reasearchers by Hari
