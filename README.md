@@ -1,4 +1,4 @@
-# SkillsAssess2
+# Skill Assessment
 Group 9 - Skills Assessment 2
 
 We were working on the files. We analyze based on the PubMed database of
