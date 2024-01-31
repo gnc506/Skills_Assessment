@@ -109,4 +109,4 @@ Skill Assessment.pptx
    Skills_assessment_2_HM.ipynb
   =================================
 
-  The visual analysis for the Institute who publish most of the article - Hari
+  The visual analysis for which institute has published the most articles including choropleth visualization, animation and the plot for 'Number of articles published by Top 6 researchers per year' - Hari
