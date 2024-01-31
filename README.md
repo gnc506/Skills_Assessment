@@ -104,7 +104,7 @@ Skill Assessment.pptx
 
   Skills_Assessment_2_asha.ipynb
   ================================
-   The visual analysis on journals, Publication, and Year - Asha
+   The visual analysis on journals, Publications, and Year - Asha
 
    Skills_assessment_2_HM.ipynb
   =================================
